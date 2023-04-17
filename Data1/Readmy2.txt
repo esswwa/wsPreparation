@@ -1,0 +1,4 @@
+Report_M2.ipynb - листинг с работой в ipynb
+Report_M2.html - листинг с работой в html
+Report1.csv - исходный набор данных с результатом из Report_M1
+Data.zip - результирующий набор данных в Data.zip
